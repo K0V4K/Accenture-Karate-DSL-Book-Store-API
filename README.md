@@ -66,7 +66,7 @@ Para uma experiência de desenvolvimento otimizada, recomenda-se:
 * **IDE**: [IntelliJ IDEA](https://www.jetbrains.com/idea/) (recomendado para melhor suporte ao Karate).
 * **Plugins**:
 * **Cucumber for Java**: Para suporte à sintaxe Gherkin e realce de palavras-chave.
-* **Ghrekin**: Habilita o realce de sintaxe para formatação dos cenários de teste
+* **Gherkin**: Habilita o realce de sintaxe para formatação dos cenários de teste
 * **Karate Runner**: Essencial para executar cenários diretamente da IDE e depurar (`debug`) as features de forma individual.
 
 ---
@@ -158,3 +158,4 @@ Abaixo, o relatório consolidado gerado pelo **Karate Reports**, demonstrando a 
 </div>
 
 ---
+
